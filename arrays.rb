@@ -26,3 +26,6 @@ days_worked[3]
 average_guests_per_room[0]
 # This index position will return the 1st element of the average_guests_per_room array
 
+days_worked.insert(3, 5)
+# The method .insert will allow you to insert an element in an array in any position.
+# This method will insert the element 5 into position 3
